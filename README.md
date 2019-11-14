@@ -1,5 +1,7 @@
 # Bitfinex Mobile App
 
+![](https://github.com/bitfinexcom/mobile-pub/blob/master/bitfinex_qrcode.png)
+
 https://github.com/bitfinexcom/mobile-pub/releases
 
 You can [download](https://github.com/bitfinexcom/mobile-pub/releases) the latest Bitfinex Android `apk` here.
