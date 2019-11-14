@@ -4,7 +4,7 @@
 
 https://github.com/bitfinexcom/mobile-pub/releases
 
-You can [download](https://github.com/bitfinexcom/mobile-pub/releases) the latest Bitfinex Android `apk` here.
+You can [download](https://github.com/bitfinexcom/mobile-pub/releases) the latest official Bitfinex Android `apk` here.
 For Play Store/App Store versions and the usage instructions, please visit https://www.bitfinex.com/app
 
 您可以[由此下载](https://github.com/bitfinexcom/mobile-pub/releases) Bitfinex 官方提供的安卓APK档案。
