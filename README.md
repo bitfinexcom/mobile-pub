@@ -9,3 +9,5 @@ For Play Store/App Store versions and the usage instructions, please visit https
 
 您可以[由此下载](https://github.com/bitfinexcom/mobile-pub/releases) Bitfinex 官方提供的安卓APK档案。
 若您可以直接使用苹果/安卓商店安装应用，请造访 https://www.bitfinex.com/app
+
+To verify the file is valid, run `openssl sha256 [file path]` and check if it matched the provided checksum.
