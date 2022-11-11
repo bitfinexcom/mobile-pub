@@ -1,6 +1,6 @@
 # Bitfinex Mobile App
 
-![](https://github.com/bitfinexcom/mobile-pub/blob/master/bitfinex_qrcode.png)
+![](https://github.com/bitfinexcom/mobile-pub/blob/master/bitfinex_qrcode.svg)
 
 https://github.com/bitfinexcom/mobile-pub/releases
 
